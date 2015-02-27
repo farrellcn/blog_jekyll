@@ -10,7 +10,7 @@ blog:
     description: Happy wife happy life.                 # 博客描述
     title: Farrell Blog - 逗比程序员一个          # 网页标题
     url: http://sjnote.com                                 # 博客地址
-    duoshuo: farell                                       # 多说ID
+    duoshuo: farrell                                       # 多说ID
     tongji: befd0f62cf690442fc37a728bca90af7             # 百度统计ID
     qiniu: http://pexcn.qiniudn.com                      # 七牛云地址
 author:
